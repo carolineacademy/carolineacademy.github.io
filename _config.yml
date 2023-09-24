@@ -3,9 +3,9 @@ permalink: pretty
 title: 'Caroline Academy'
 
 logo:
-  mobile: "images/logo/logo_2.jpg"
-  mobile_height: "50px"
-  mobile_width: "272px"
+  mobile: "images/logo/logo-mobile.jpg"
+  mobile_height: "32px"
+  mobile_width: "32px"
   desktop: "images/logo/logo_2.jpg"
   desktop_height: "50px"
   desktop_width: "272px"
@@ -23,14 +23,14 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "edutours"
     values:
-      layout: "service"
+      layout: "edutours"
   - scope:
       path: ""
-      type: "team"
+      type: "programs"
     values:
-      layout: "team"
+      layout: "programs"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

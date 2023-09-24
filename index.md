@@ -9,5 +9,5 @@ show_call_box: true
 ---
 
 # Caroline Academy
-## Expert of Educational Tours
-We help you learn, inspire, travel, and grow up!
+### Expert of Educational Tours
+We help you learn, inspire, travel and grow up!
