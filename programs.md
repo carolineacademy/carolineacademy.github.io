@@ -2,7 +2,7 @@
 title: Programs
 layout: Programs
 description: Programs
-permalink: "/Programs/"
+permalink: "/programs/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
