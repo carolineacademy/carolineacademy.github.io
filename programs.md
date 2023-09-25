@@ -1,10 +1,10 @@
 ---
 title: Programs
-layout: Programs
+layout: programs
 description: Programs
-permalink: "/programs/"
+intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
-intro_image_hide_on_mobile: false
+intro_image_hide_on_mobile: true
 ---
 
 # Meet The Team
