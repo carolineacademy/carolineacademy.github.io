@@ -1,44 +1,39 @@
 baseurl: '/'
 permalink: pretty
-title: 'Caroline Academy'
+title: 'Jekyll Serif'
 
 logo:
-  mobile: "images/logo/logo-mobile.jpg"
+  mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo_2.jpg"
-  desktop_height: "50px"
-  desktop_width: "272px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "32px"
+  desktop_width: "120px"
 
 home: 
   limit_services: 6
 
 collections:
-  edutours:
+  services:
     output: true
     sort_by: weight
-  programs:
+  team:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "edutours"
+      type: "services"
     values:
-      layout: "edutour"
+      layout: "service"
   - scope:
       path: ""
-      type: "programs"
+      type: "team"
     values:
-      layout: "program"
+      layout: "team"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
-
-collections:
-  edutours:
-    output: true
-    sort_by: weight
 
 plugins:
   - jekyll-environment-variables
