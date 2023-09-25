@@ -1,6 +1,6 @@
 ---
 title: Programs
-layout: programs
+layout: edutours
 description: Programs
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
