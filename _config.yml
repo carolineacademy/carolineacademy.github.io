@@ -35,6 +35,14 @@ defaults:
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
+collections:
+  edutour:
+    output: true
+    sort_by: weight
+  programs:
+    output: true
+
+
 plugins:
   - jekyll-environment-variables
 
