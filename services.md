@@ -1,6 +1,6 @@
 ---
-title: Services
-layout: Edutours
+title: Edutours
+layout: Services
 description: Services
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
