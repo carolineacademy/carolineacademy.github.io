@@ -14,10 +14,10 @@ home:
   limit_services: 6
 
 collections:
-  services:
+  edutours:
     output: true
     sort_by: weight
-  team:
+  programs:
     output: true
 
 defaults:
@@ -25,12 +25,12 @@ defaults:
       path: ""
       type: "edutours"
     values:
-      layout: "edutours"
+      layout: "edutour"
   - scope:
       path: ""
       type: "programs"
     values:
-      layout: "programs"
+      layout: "program"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
