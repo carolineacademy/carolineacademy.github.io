@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: Caroline Academy
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: des1
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
-
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+# Caroline Academy
+## Expert of Educational Tours
+We help you learn, inspire, travel, and grow up!
