@@ -29,7 +29,7 @@ sass:
   style: compressed # possible values: nested expanded compact compressed
 
 collections:
-  edutours:
+  services:
     output: true
     sort_by: weight
 
