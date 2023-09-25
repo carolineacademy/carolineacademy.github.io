@@ -1,5 +1,5 @@
 main:
-  - name: "Services"
+  - name: "Edutours"
     url: "/services/"
     weight: 2
   - name: "About"
