@@ -1,15 +1,15 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Edutours"
+    url: "/edutours/"
     weight: 2
-  - name: "Team"
-    url: "/team/"
+  - name: "Programs"
+    url: "/programs/"
     weight: 3
   - name: "About"
     url: "/about/"
     weight: 4
-  - name: "Contact"
-    url: "/contact/"
+  - name: "Join us"
+    url: "/join_us/"
     weight: 5
 
 footer:
