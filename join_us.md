@@ -1,6 +1,6 @@
 ---
 title: Join Us
-layout: Join Us
+layout: page
 description: Join Us
 ---
 
