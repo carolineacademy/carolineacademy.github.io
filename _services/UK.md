@@ -6,7 +6,7 @@ weight: 2
 
 Caroline Academy provides a wide range of customized educational tours for students with enriching experiences, historical insights, and cultural immersion. Taking educational tours in the UK offers numerous benefits for students. 
 
-![img](../images/clip_image002.jpg)
+![img](../images/clip_image001.jpg)
 
 **Cultural Immersion:** Edutours provide students with an opportunity to immerse themselves in the rich and diverse culture of the UK. They can experience different traditions, customs, and ways of life, fostering a broader perspective and cultural understanding.
 
