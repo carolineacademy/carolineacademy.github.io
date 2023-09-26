@@ -11,7 +11,7 @@ All of our educational tours to Switzerland will be tailored to meet the needs o
 
 Caroline Academy is committed to supporting bilingualism as fundamental to increasing intercultural understanding and international-mindedness, as well as to providing a variety of cultural and linguistic backgrounds. We explore the crucial role language plays in communication, reflecting experience and shaping the world, and the roles of individuals themselves.
 
-![clip_image001](/Users/haosun/Documents/资料/实习/善来教育/网站/代码/carolineacademy.github.io-master/images/clip_image001.png)
+![clip_image001](images/clip_image001.png)
 
 **Alpine Adventures:** Switzerland is famous for its stunning Alpine landscapes. Students can embark on mountain hikes, explore glacier formations, and enjoy breathtaking panoramic views. Activities like skiing, snowboarding, or paragliding in the Swiss Alps provide thrilling and unforgettable experiences.
 

@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-![our_mission](/Users/haosun/Documents/资料/实习/善来教育/网站/代码/carolineacademy.github.io-master/assets/our_mission.png)
+![our_mission](images/our_mission.png)
 
 #	Our Mission
 
@@ -21,19 +21,27 @@ Caroline Academy is a specialist in international educational tour operator for 
 
 
 #	Join Us
-​	We’re an international education company based in Beijing, China. We specialize in helping students aged from 5-year old to 18-year old apply for studying in the UK and Switzerland. We've specialized in operating customized educational tours & 	performance tours for students since 2018.We are also , as well as an international educational tour operator in families, schools and youth groups travel to the Europe, Africa and North America and beyond.
-​	Established for over 10 years, our experience and passion for what we do are evident from the fantastic customer feedback we receive each year.
-​	If you enjoy travel, believe in the value of educational tours or school trips, are a great organizer, and would love to work with a great team of people, then get in touch!
+​We’re an international education company based in Beijing, China. We specialize in helping students aged from 5-year old to 18-year old apply for studying in the UK and Switzerland. We've specialized in operating customized educational tours & 	performance tours for students since 2018.We are also , as well as an international educational tour operator in families, schools and youth groups travel to the Europe, Africa and North America and beyond.
+
+​Established for over 10 years, our experience and passion for what we do are evident from the fantastic customer feedback we receive each year.
+
+​If you enjoy travel, believe in the value of educational tours or school trips, are a great organizer, and would love to work with a great team of people, then get in touch!
 ​	You can find details on our current vacancies below. To find out more email us at michelle@carolineacademy.com.cn 
 
 ## Job Description: Field Trip Coordinator
 
 **Reports To: Director of Admission and Recruitment**
+
 **Email**: michelle@carolineacademy.com.cn
+
 **Work Schedule**: 12 - 24 months
+
 **Location**: School Office and Historic Site, Museums in Beijing 
+
 **Job Summary**: The Field Trip Coordinator is responsible for organizing and facilitating interactive learning opportunities for the students and schools that include curriculum centric enrichment activities focused on meeting grade level standards; and organizing and facilitating field trips and special events for students and school. The employee will act as a liaison between Caroline Academy and students (or their families).
+
 **Qualifications**: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+
 **Employer Requirements**:
 
 - A valid, current, and appropriate teaching credential for teaching staff (TESOL, TEFL e.g.). A copy of Teaching Credential to be provided and kept current. 

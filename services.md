@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # THE WORLD IS YOUR CLASSROOM
 
-Take a step outside the walls of your school and embrace the world! Educational tours spice up learning with hands-on experiences and add fun and real-world context to the traditional classroom experience.
+Take a step outside the walls of your school and embrace the world!

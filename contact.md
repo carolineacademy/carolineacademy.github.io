@@ -9,3 +9,5 @@ description: Contact
 - **WeChat Public Account**: Caroline Academy
 
 <img src="images/wechat.jpg" alt="wechat" style="zoom: 25%;" />
+
+![wechat](images/wechat.jpg)
