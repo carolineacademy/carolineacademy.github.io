@@ -4,8 +4,8 @@ title: 'Caroline Academy'
 
 logo:
   mobile: "images/logo/logo_2.jpg"
-  mobile_height: "320px"
-  mobile_width: "320px"
+  mobile_height: "32px"
+  mobile_width: "100px"
   desktop: "images/logo/logo_2.jpg"
   desktop_height: "50px"
   desktop_width: "272px"
