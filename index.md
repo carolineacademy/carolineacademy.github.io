@@ -10,9 +10,13 @@ show_call_box: true
 
 # Caroline Academy
 
+<h2 style="margin-top: 100px;"> </h2>
+<h2 style="margin-top: 100px;"> </h2>
 
 <h2 style="margin-top: 50px;">Expert of Educational Tours</h2>
 
+<h2 style="margin-top: 100px;"> </h2>
+<h2 style="margin-top: 100px;"> </h2>
 
 We help you learn, inspire, travel, and grow up!
 
