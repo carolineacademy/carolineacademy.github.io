@@ -16,7 +16,7 @@ show_call_box: true
 
 <h2 style="margin-top: 20px;"> </h2>
 
-We help you learn, inspire, travel, and grow up!
+<p style="font-size: 24px;">We help you learn, inspire, travel, and grow up!</p>
 
 <h2 style="margin-top: 100px;"> </h2>
 <h2 style="margin-top: 100px;"> </h2>
