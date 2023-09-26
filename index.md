@@ -14,4 +14,6 @@ show_call_box: true
 <h2 style="margin-top: 50px;">Expert of Educational Tours</h2>
 
 
-We help you learn, inspire, travel, and grow up!
+<h3 style="margin-top: 50px;">We help you learn, inspire, travel, and grow up!</h3>
+
+
