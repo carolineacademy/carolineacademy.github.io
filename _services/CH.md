@@ -4,14 +4,14 @@ date: 2023-09-26T12:33:46+10:00
 weight: 1
 ---
 
+Caroline Academy organizes unforgettable educational tours to Switzerland **for students at all ages across China**. This includes groups in K12 through to college and university and our trips cover a range of curriculum subjects.
 
-Caroline Academy organizes unforgettable educational tours to Switzerland for students at all ages across China. This includes groups in K12 through to college and university and our trips cover a range of curriculum subjects.
+![clip_image001](/images/clip_image001.png)
 
 All of our educational tours to Switzerland will be tailored to meet the needs of the group, with state-of-the-art educational facilities and friendly, English-speaking hosts to support students throughout the duration of the trip. 
 
 Caroline Academy is committed to supporting bilingualism as fundamental to increasing intercultural understanding and international-mindedness, as well as to providing a variety of cultural and linguistic backgrounds. We explore the crucial role language plays in communication, reflecting experience and shaping the world, and the roles of individuals themselves.
 
-![clip_image001](/images/clip_image001.png)
 
 **Alpine Adventures:** Switzerland is famous for its stunning Alpine landscapes. Students can embark on mountain hikes, explore glacier formations, and enjoy breathtaking panoramic views. Activities like skiing, snowboarding, or paragliding in the Swiss Alps provide thrilling and unforgettable experiences.
 
