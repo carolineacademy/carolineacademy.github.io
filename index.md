@@ -12,7 +12,7 @@ show_call_box: true
 
 <h2 style="margin-top: 20px;"> </h2>
 
-<h2 style="margin-top: 50px; font-size: 24px;">Expert of Educational Tours</h2>
+<h2 style="margin-top: 50px; font-size: 30px;">Expert of Educational Tours</h2>
 
 <h2 style="margin-top: 20px;"> </h2>
 
