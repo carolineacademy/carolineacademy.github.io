@@ -6,7 +6,6 @@ main:
     url: "/about/"
     weight: 4
 
-
 footer:
   - name: "Home"
     url: "/"

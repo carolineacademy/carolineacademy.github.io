@@ -1,12 +1,12 @@
 ---
 title: Edutours
 layout: services
-description: Services
+description: Edutours
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# THE WORLD IS YOUR CLASSROOM
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Take a step outside the walls of your school and embrace the world! Educational tours spice up learning with hands-on experiences and add fun and real-world context to the traditional classroom experience.

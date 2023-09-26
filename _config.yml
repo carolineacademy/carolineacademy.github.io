@@ -18,7 +18,6 @@ collections:
     output: true
     sort_by: weight
 
-
 defaults:
   - scope:
       path: ""
@@ -28,6 +27,11 @@ defaults:
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
+
+collections:
+  services:
+    output: true
+    sort_by: weight
 
 plugins:
   - jekyll-environment-variables

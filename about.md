@@ -5,83 +5,38 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+![our_mission](/Users/haosun/Documents/资料/实习/善来教育/网站/代码/carolineacademy.github.io-master/assets/our_mission.png)
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+#	Our Mission
 
-# Objectives
+Caroline Academy is a specialist in international educational tour operator for families, schools & youth groups. Everyone at Caroline Academy is passionate about educational travel and could give you an overflowing list of reasons why students and families should pursue it. 
 
-Financial accounting and financial reporting are often used as synonyms.
+- There are many reasons why Caroline Academy stands out above other consultancies. Firstly, we support our students with every aspect of the application. Our students get a team of experts who focus on each area of the application process. Each student is paired with an expert Strategist who oversees their application and helps them create a list of safety, target and reach schools. Secondly, we provide our students with a range of unique out-of-classroom opportunities — Extracurricular Support Program that gives more opportunities for our students to experience real life in the target schools, which truly help applicants make smart choice for their future study. 
+- We help families, schools, colleges, and youth groups with well-designed educational tours to destinations throughout the world, such as Europe, Africa and North America, and we’re ready and waiting to work with you once again. Without any worries, our students will enjoy their personalized courses as soon as the educational tour starts, travelling while learning. Our educational tour is composed of three sections: before traveling, while traveling and after traveling. The all-around assessment and evaluation activities will definitely help our students improve their learning, knowledge, proficiency or success and provide parents or families with critical information about their children’s development. 
+- We are committed to Holistic Education, which emphasizes the development of the whole person—intellectually, emotionally, physically, and spiritually. This approach sees children as individuals with unique needs and talents and recognizes that children learn best when their individual needs are met. Holistic education is a comprehensive approach to teaching where we seek to address the emotional, social, ethical, and academic needs of students in an integrated learning format. Emphasis is placed on positive learning environments and providing whole-child supports (services that support academic and nonacademic needs, also known as wraparound supports) to students. 
+- Our students are taught to reflect on their actions and how they impact the global and local community, as well as how to learn from the community around them. Teachers often engage students in projects that apply critical-thinking skills toward solving real-world problems.
+- We have a wide range of ready-made itineraries that ensure you benefit from our experience, and we’re always happy to help you tailor-make a school trip specifically to suit you.
+- Search the site by Destination or Subject, or take a look at some of our most popular extracurricular activities, including educational and academic clubs and educational tours, including Study in UK and Study in Switzerland for Primary Schools and Secondary Schools, as well as a great selection of Day-Trips.
+- We will do our very best to give you the very best value, always!
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
 
-## Relevance
+#	Join Us
+​	We’re an international education company based in Beijing, China. We specialize in helping students aged from 5-year old to 18-year old apply for studying in the UK and Switzerland. We've specialized in operating customized educational tours & 	performance tours for students since 2018.We are also , as well as an international educational tour operator in families, schools and youth groups travel to the Europe, Africa and North America and beyond.
+​	Established for over 10 years, our experience and passion for what we do are evident from the fantastic customer feedback we receive each year.
+​	If you enjoy travel, believe in the value of educational tours or school trips, are a great organizer, and would love to work with a great team of people, then get in touch!
+​	You can find details on our current vacancies below. To find out more email us at michelle@carolineacademy.com.cn 
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
+## Job Description: Field Trip Coordinator
 
-> The ingredients of relevance are the predictive value and confirmatory value.
+**Reports To: Director of Admission and Recruitment**
+**Email**: michelle@carolineacademy.com.cn
+**Work Schedule**: 12 - 24 months
+**Location**: School Office and Historic Site, Museums in Beijing 
+**Job Summary**: The Field Trip Coordinator is responsible for organizing and facilitating interactive learning opportunities for the students and schools that include curriculum centric enrichment activities focused on meeting grade level standards; and organizing and facilitating field trips and special events for students and school. The employee will act as a liaison between Caroline Academy and students (or their families).
+**Qualifications**: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+**Employer Requirements**:
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+- A valid, current, and appropriate teaching credential for teaching staff (TESOL, TEFL e.g.). A copy of Teaching Credential to be provided and kept current. 
+- Experience planning educational, curriculum related enrichment opportunities and field trips. Ability to evaluate the educational value of a site or program in accordance with international schools’ standards. 
+- Experience engaging in social media representation and promotion for a school or organization preferred.
 
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
