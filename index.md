@@ -19,6 +19,6 @@ We help you learn, inspire, travel, and grow up!
 #
 #
 #
-<h2 style="margin-top: 100px;"> </h2>
-<h2 style="margin-top: 100px;"> </h2>
-<h2 style="margin-top: 100px;"> </h2>
+#
+#
+#
